@@ -1,0 +1,17 @@
+{
+  "tempo": {
+    "csv_sha256": "63f69f4a19b91b67caf1c52cf94502cacc381e281f20402c19ba41f9a078f81f",
+    "hyper_sha256": "d52de3d82ca0247acde1fccec93bf73614d950edab326162d96bfae282314cad",
+    "created_by": "Tableau Public 2026.3 native CSV import"
+  },
+  "bottleneck": {
+    "csv_sha256": "727d0c96a6050bfb12d750a28e2326be5c58d9bd07585af2b5418caea6c5c063",
+    "hyper_sha256": "7f082f6d3b0533ba7c4c55e9d2e751e81f097d66f390d647d772f165d3ae21a7",
+    "created_by": "Tableau Public 2026.3 native CSV import"
+  },
+  "control": {
+    "csv_sha256": "9b71932d48edeb96c46d409b82eaeaa01cf9c3d2637ddb78f48c12ebe62da91d",
+    "hyper_sha256": "1c4cae5a132aee80a4661d69b1d77c63c0890d65455e252a4220e20934f4b982",
+    "created_by": "Tableau Public 2026.3 native CSV import"
+  }
+}

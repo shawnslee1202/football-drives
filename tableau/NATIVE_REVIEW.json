@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-23",
+  "application": "Tableau Public 2026.3",
+  "twb_sha256": "d081ee3a65949c148c720fe59e235d32e585e04461ea7dba9faa986aa298d854",
+  "checks": [
+    "Packaged workbook opens without import errors",
+    "All three dashboard charts render",
+    "394 scatter marks match source team-season count",
+    "Nebraska control chart renders with three-sigma limits and intervention line",
+    "Control selector switched to Texas A&M 2023; chart updated",
+    "Dropdown controls and heatmap cell values visible"
+  ],
+  "limitations": [
+    "Some heatmap state headers truncate; hover marks for full state",
+    "Choose one case; All combines cases and should not be used for interpretation",
+    "Offline HTML browser rendering remains unverified"
+  ],
+  "publication": "https://public.tableau.com/app/profile/shawn.lee1439/viz/football-drives/Footballproductionline"
+}

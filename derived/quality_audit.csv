@@ -1,0 +1,445 @@
+season,disposition,play_type,records,missing_ppa
+2021,eligible,Fumble Recovery (Opponent),278,11
+2021,eligible,Fumble Recovery (Own),449,4
+2021,eligible,Fumble Return Touchdown,26,0
+2021,eligible,Interception,334,1
+2021,eligible,Interception Return Touchdown,101,0
+2021,eligible,Pass Incompletion,15980,22
+2021,eligible,Pass Interception Return,704,0
+2021,eligible,Pass Reception,24476,43
+2021,eligible,Passing Touchdown,2297,9
+2021,eligible,Rush,45664,100
+2021,eligible,Rushing Touchdown,2259,9
+2021,eligible,Sack,2904,7
+2021,eligible,Safety,43,1
+2021,excluded_or_unmapped_type,Blocked Field Goal,38,38
+2021,excluded_or_unmapped_type,Blocked Field Goal Touchdown,1,0
+2021,excluded_or_unmapped_type,Defensive 2pt Conversion,1,1
+2021,excluded_or_unmapped_type,End Period,46,1
+2021,excluded_or_unmapped_type,End of Game,2,2
+2021,excluded_or_unmapped_type,End of Half,3,3
+2021,excluded_or_unmapped_type,End of Regulation,2,0
+2021,excluded_or_unmapped_type,Field Goal Good,1401,1401
+2021,excluded_or_unmapped_type,Field Goal Missed,486,486
+2021,excluded_or_unmapped_type,Kickoff,84,84
+2021,excluded_or_unmapped_type,Kickoff Return (Offense),10,10
+2021,excluded_or_unmapped_type,Kickoff Return Touchdown,1,1
+2021,excluded_or_unmapped_type,Missed Field Goal Return,4,4
+2021,excluded_or_unmapped_type,Penalty,3524,3524
+2021,excluded_or_unmapped_type,Timeout,4637,4637
+2021,excluded_or_unmapped_type,Uncategorized,5,5
+2021,excluded_or_unmapped_type,placeholder,2,0
+2021,garbage_time,Blocked Punt,1,1
+2021,garbage_time,Defensive 2pt Conversion,1,1
+2021,garbage_time,End of Game,128,128
+2021,garbage_time,Field Goal Good,33,33
+2021,garbage_time,Field Goal Missed,12,12
+2021,garbage_time,Fumble Recovery (Opponent),10,0
+2021,garbage_time,Fumble Recovery (Own),23,0
+2021,garbage_time,Fumble Return Touchdown,1,0
+2021,garbage_time,Interception,9,0
+2021,garbage_time,Interception Return Touchdown,6,0
+2021,garbage_time,Kickoff,195,195
+2021,garbage_time,Kickoff Return (Offense),42,42
+2021,garbage_time,Kickoff Return Touchdown,2,1
+2021,garbage_time,Pass Incompletion,487,1
+2021,garbage_time,Pass Interception Return,24,0
+2021,garbage_time,Pass Reception,631,1
+2021,garbage_time,Passing Touchdown,60,0
+2021,garbage_time,Penalty,205,205
+2021,garbage_time,Punt,207,207
+2021,garbage_time,Rush,2028,3
+2021,garbage_time,Rushing Touchdown,87,1
+2021,garbage_time,Sack,81,0
+2021,garbage_time,Safety,2,1
+2021,garbage_time,Timeout,104,104
+2021,garbage_time,Uncategorized,9,9
+2021,invalid_down,Defensive 2pt Conversion,1,1
+2021,invalid_down,End Period,1423,1423
+2021,invalid_down,End of Game,539,539
+2021,invalid_down,End of Half,688,688
+2021,invalid_down,End of Regulation,33,33
+2021,invalid_down,Kickoff,2023,2023
+2021,invalid_down,Kickoff Return (Offense),441,441
+2021,invalid_down,Kickoff Return Touchdown,11,11
+2021,invalid_down,Passing Touchdown,1,1
+2021,invalid_down,Penalty,36,36
+2021,invalid_down,Punt,13,13
+2021,invalid_down,Rushing Touchdown,1,1
+2021,invalid_down,Timeout,30,30
+2021,invalid_down,Uncategorized,128,128
+2021,kneel_or_spike,Penalty,2,2
+2021,kneel_or_spike,Punt,1,1
+2021,kneel_or_spike,Sack,3,0
+2021,kneel_or_spike,Uncategorized,8,8
+2021,no_play,Field Goal Missed,1,1
+2021,no_play,Interception,3,0
+2021,no_play,Pass Incompletion,61,1
+2021,no_play,Pass Reception,1,0
+2021,no_play,Passing Touchdown,3,0
+2021,no_play,Penalty,3421,3421
+2021,no_play,Punt,3,3
+2021,no_play,Rush,17,0
+2021,no_play,Safety,2,0
+2021,no_play,Uncategorized,2,2
+2021,non_fbs,Blocked Field Goal,4,4
+2021,non_fbs,Blocked Field Goal Touchdown,1,0
+2021,non_fbs,Blocked Punt,12,12
+2021,non_fbs,Blocked Punt Touchdown,4,0
+2021,non_fbs,End Period,235,202
+2021,non_fbs,End of Game,102,102
+2021,non_fbs,End of Half,95,95
+2021,non_fbs,Field Goal Good,205,205
+2021,non_fbs,Field Goal Missed,50,50
+2021,non_fbs,Fumble Recovery (Opponent),28,1
+2021,non_fbs,Fumble Recovery (Own),53,0
+2021,non_fbs,Fumble Return Touchdown,6,1
+2021,non_fbs,Interception,94,2
+2021,non_fbs,Interception Return Touchdown,14,0
+2021,non_fbs,Kickoff,1088,1088
+2021,non_fbs,Kickoff Return (Offense),127,127
+2021,non_fbs,Kickoff Return Touchdown,4,4
+2021,non_fbs,Pass Incompletion,2533,5
+2021,non_fbs,Pass Interception Return,68,0
+2021,non_fbs,Pass Reception,3739,17
+2021,non_fbs,Passing Touchdown,389,3
+2021,non_fbs,Penalty,1013,1013
+2021,non_fbs,Punt,1143,1143
+2021,non_fbs,Punt Return Touchdown,4,0
+2021,non_fbs,Rush,7150,32
+2021,non_fbs,Rushing Touchdown,427,3
+2021,non_fbs,Sack,372,2
+2021,non_fbs,Safety,4,0
+2021,non_fbs,Timeout,507,507
+2021,non_fbs,Uncategorized,143,143
+2021,non_regulation,End Period,4,2
+2021,non_regulation,End of Game,18,18
+2021,non_regulation,Field Goal Good,9,9
+2021,non_regulation,Field Goal Missed,1,1
+2021,non_regulation,Fumble Recovery (Opponent),2,0
+2021,non_regulation,Pass Incompletion,24,1
+2021,non_regulation,Pass Interception Return,2,0
+2021,non_regulation,Pass Reception,29,2
+2021,non_regulation,Passing Touchdown,12,0
+2021,non_regulation,Penalty,6,6
+2021,non_regulation,Rush,70,0
+2021,non_regulation,Rushing Touchdown,9,3
+2021,non_regulation,Sack,7,1
+2021,non_regulation,Timeout,18,18
+2021,non_regulation,Two Point Pass,2,2
+2021,non_regulation,Uncategorized,7,7
+2021,non_regulation,placeholder,3,0
+2021,special_teams_text,Blocked Field Goal,4,4
+2021,special_teams_text,Blocked Field Goal Touchdown,2,1
+2021,special_teams_text,Blocked Punt,69,69
+2021,special_teams_text,Blocked Punt Touchdown,12,0
+2021,special_teams_text,Field Goal Good,269,269
+2021,special_teams_text,Field Goal Missed,23,23
+2021,special_teams_text,Fumble Recovery (Own),1,0
+2021,special_teams_text,Kickoff,4297,4297
+2021,special_teams_text,Kickoff Return (Offense),930,930
+2021,special_teams_text,Kickoff Return Touchdown,27,27
+2021,special_teams_text,Punt,6244,6244
+2021,special_teams_text,Punt Return Touchdown,7,0
+2021,special_teams_text,Rushing Touchdown,1,0
+2021,special_teams_text,Safety,1,0
+2022,eligible,Fumble Recovery (Opponent),501,11
+2022,eligible,Fumble Recovery (Own),542,3
+2022,eligible,Fumble Return Touchdown,50,0
+2022,eligible,Interception,710,2
+2022,eligible,Interception Return Touchdown,114,0
+2022,eligible,Pass Incompletion,16438,33
+2022,eligible,Pass Interception Return,287,2
+2022,eligible,Pass Reception,24558,33
+2022,eligible,Passing Touchdown,2255,7
+2022,eligible,Rush,44250,72
+2022,eligible,Rushing Touchdown,2241,6
+2022,eligible,Sack,2793,2
+2022,eligible,Safety,32,0
+2022,excluded_or_unmapped_type,Blocked Field Goal,49,49
+2022,excluded_or_unmapped_type,Defensive 2pt Conversion,1,1
+2022,excluded_or_unmapped_type,End Period,54,0
+2022,excluded_or_unmapped_type,End of Regulation,1,0
+2022,excluded_or_unmapped_type,Field Goal Good,1384,1384
+2022,excluded_or_unmapped_type,Field Goal Missed,424,424
+2022,excluded_or_unmapped_type,Kickoff,48,48
+2022,excluded_or_unmapped_type,Kickoff Return (Offense),2,2
+2022,excluded_or_unmapped_type,Kickoff Return Touchdown,1,1
+2022,excluded_or_unmapped_type,Missed Field Goal Return,3,3
+2022,excluded_or_unmapped_type,Pass,1,0
+2022,excluded_or_unmapped_type,Penalty,3281,3281
+2022,excluded_or_unmapped_type,Punt,31,31
+2022,excluded_or_unmapped_type,Timeout,4977,4977
+2022,excluded_or_unmapped_type,Uncategorized,12,12
+2022,garbage_time,Blocked Punt,1,1
+2022,garbage_time,End of Game,115,115
+2022,garbage_time,Field Goal Good,26,26
+2022,garbage_time,Field Goal Missed,5,5
+2022,garbage_time,Fumble Recovery (Opponent),16,0
+2022,garbage_time,Fumble Recovery (Own),17,0
+2022,garbage_time,Fumble Return Touchdown,1,0
+2022,garbage_time,Interception,20,0
+2022,garbage_time,Interception Return Touchdown,1,0
+2022,garbage_time,Kickoff,136,136
+2022,garbage_time,Kickoff Return (Offense),63,63
+2022,garbage_time,Pass Incompletion,508,2
+2022,garbage_time,Pass Interception Return,7,0
+2022,garbage_time,Pass Reception,658,1
+2022,garbage_time,Passing Touchdown,69,1
+2022,garbage_time,Penalty,188,188
+2022,garbage_time,Punt,236,236
+2022,garbage_time,Punt Return Touchdown,1,0
+2022,garbage_time,Rush,1879,8
+2022,garbage_time,Rushing Touchdown,76,0
+2022,garbage_time,Sack,83,0
+2022,garbage_time,Safety,1,0
+2022,garbage_time,Timeout,112,112
+2022,garbage_time,Uncategorized,4,4
+2022,invalid_down,Defensive 2pt Conversion,1,1
+2022,invalid_down,End Period,1425,1425
+2022,invalid_down,End of Game,528,528
+2022,invalid_down,End of Half,686,686
+2022,invalid_down,End of Regulation,38,38
+2022,invalid_down,Field Goal Good,2,2
+2022,invalid_down,Kickoff,2120,2120
+2022,invalid_down,Kickoff Return (Offense),1033,1033
+2022,invalid_down,Kickoff Return Touchdown,11,11
+2022,invalid_down,Passing Touchdown,4,4
+2022,invalid_down,Penalty,43,43
+2022,invalid_down,Punt,21,21
+2022,invalid_down,Rushing Touchdown,5,5
+2022,invalid_down,Timeout,38,38
+2022,invalid_down,Uncategorized,170,170
+2022,kneel_or_spike,Fumble Recovery (Own),1,0
+2022,kneel_or_spike,Penalty,3,3
+2022,kneel_or_spike,Punt,1,1
+2022,kneel_or_spike,Rush,288,0
+2022,kneel_or_spike,Sack,1,0
+2022,kneel_or_spike,Uncategorized,12,12
+2022,no_play,Field Goal Good,2,2
+2022,no_play,Field Goal Missed,1,1
+2022,no_play,Interception,2,0
+2022,no_play,Pass Incompletion,71,1
+2022,no_play,Passing Touchdown,2,0
+2022,no_play,Penalty,3217,3217
+2022,no_play,Punt,2,2
+2022,no_play,Rush,31,1
+2022,no_play,Rushing Touchdown,1,0
+2022,no_play,Sack,4,0
+2022,no_play,Uncategorized,6,6
+2022,non_fbs,Blocked Field Goal,67,67
+2022,non_fbs,Blocked Field Goal Touchdown,5,0
+2022,non_fbs,Blocked Punt,76,76
+2022,non_fbs,Blocked Punt Touchdown,7,0
+2022,non_fbs,Defensive 2pt Conversion,2,2
+2022,non_fbs,End Period,1350,1334
+2022,non_fbs,End of Game,463,463
+2022,non_fbs,End of Half,522,522
+2022,non_fbs,End of Regulation,29,24
+2022,non_fbs,Field Goal Good,1210,1210
+2022,non_fbs,Field Goal Missed,456,456
+2022,non_fbs,Fumble Recovery (Opponent),503,6
+2022,non_fbs,Fumble Recovery (Own),488,8
+2022,non_fbs,Fumble Return Touchdown,44,0
+2022,non_fbs,Interception,870,4
+2022,non_fbs,Interception Return Touchdown,106,0
+2022,non_fbs,Kickoff,4146,4146
+2022,non_fbs,Kickoff Return (Offense),2889,2889
+2022,non_fbs,Kickoff Return Touchdown,37,36
+2022,non_fbs,Missed Field Goal Return,11,11
+2022,non_fbs,Missed Field Goal Return Touchdown,1,1
+2022,non_fbs,Pass,1,0
+2022,non_fbs,Pass Incompletion,14571,51
+2022,non_fbs,Pass Interception Return,188,0
+2022,non_fbs,Pass Reception,20493,74
+2022,non_fbs,Passing Touchdown,2259,5
+2022,non_fbs,Penalty,5266,5266
+2022,non_fbs,Punt,6046,6046
+2022,non_fbs,Punt Return Touchdown,14,0
+2022,non_fbs,Rush,40538,167
+2022,non_fbs,Rushing Touchdown,2179,8
+2022,non_fbs,Sack,2317,9
+2022,non_fbs,Safety,34,0
+2022,non_fbs,Timeout,3365,3365
+2022,non_fbs,Uncategorized,105,105
+2022,non_fbs,placeholder,5,1
+2022,non_regulation,Blocked Field Goal,2,2
+2022,non_regulation,End Period,5,5
+2022,non_regulation,End of Game,24,24
+2022,non_regulation,Field Goal Good,25,25
+2022,non_regulation,Field Goal Missed,9,9
+2022,non_regulation,Fumble Recovery (Opponent),4,0
+2022,non_regulation,Fumble Recovery (Own),1,0
+2022,non_regulation,Interception,1,0
+2022,non_regulation,Pass Incompletion,60,1
+2022,non_regulation,Pass Reception,50,2
+2022,non_regulation,Passing Touchdown,17,2
+2022,non_regulation,Penalty,23,23
+2022,non_regulation,Rush,147,1
+2022,non_regulation,Rushing Touchdown,15,1
+2022,non_regulation,Sack,7,0
+2022,non_regulation,Timeout,23,23
+2022,non_regulation,Two Point Pass,1,1
+2022,non_regulation,Two Point Rush,3,3
+2022,non_regulation,Uncategorized,1,1
+2022,special_teams_text,Blocked Field Goal,2,2
+2022,special_teams_text,Blocked Field Goal Touchdown,1,0
+2022,special_teams_text,Blocked Punt,55,55
+2022,special_teams_text,Blocked Punt Touchdown,19,0
+2022,special_teams_text,Field Goal Good,298,298
+2022,special_teams_text,Field Goal Missed,24,24
+2022,special_teams_text,Kickoff,3007,3007
+2022,special_teams_text,Kickoff Return (Offense),1471,1471
+2022,special_teams_text,Kickoff Return Touchdown,12,11
+2022,special_teams_text,Punt,6268,6268
+2022,special_teams_text,Punt Return Touchdown,5,0
+2022,special_teams_text,Safety,1,0
+2023,eligible,Fumble Recovery (Opponent),430,2
+2023,eligible,Fumble Recovery (Own),609,10
+2023,eligible,Fumble Return Touchdown,61,0
+2023,eligible,Interception,790,1
+2023,eligible,Interception Return Touchdown,116,0
+2023,eligible,Pass Incompletion,16418,22
+2023,eligible,Pass Interception Return,273,0
+2023,eligible,Pass Reception,24797,27
+2023,eligible,Passing Touchdown,2259,2
+2023,eligible,Rush,44243,62
+2023,eligible,Rushing Touchdown,2208,6
+2023,eligible,Sack,2804,1
+2023,eligible,Safety,21,0
+2023,excluded_or_unmapped_type,Blocked Field Goal,46,46
+2023,excluded_or_unmapped_type,Defensive 2pt Conversion,1,1
+2023,excluded_or_unmapped_type,End Period,12,0
+2023,excluded_or_unmapped_type,End of Game,1,1
+2023,excluded_or_unmapped_type,End of Regulation,1,0
+2023,excluded_or_unmapped_type,Field Goal Good,1572,1572
+2023,excluded_or_unmapped_type,Field Goal Missed,492,492
+2023,excluded_or_unmapped_type,Kickoff,14,14
+2023,excluded_or_unmapped_type,Kickoff Return (Offense),1,1
+2023,excluded_or_unmapped_type,Missed Field Goal Return,4,4
+2023,excluded_or_unmapped_type,Penalty,3115,3115
+2023,excluded_or_unmapped_type,Timeout,5346,5346
+2023,excluded_or_unmapped_type,Uncategorized,4,4
+2023,excluded_or_unmapped_type,placeholder,2,0
+2023,garbage_time,Blocked Field Goal,2,2
+2023,garbage_time,Blocked Field Goal Touchdown,1,0
+2023,garbage_time,End of Game,113,113
+2023,garbage_time,End of Regulation,2,1
+2023,garbage_time,Field Goal Good,24,24
+2023,garbage_time,Field Goal Missed,11,11
+2023,garbage_time,Fumble Recovery (Opponent),13,0
+2023,garbage_time,Fumble Recovery (Own),16,0
+2023,garbage_time,Fumble Return Touchdown,1,0
+2023,garbage_time,Interception,23,0
+2023,garbage_time,Interception Return Touchdown,4,0
+2023,garbage_time,Kickoff,165,165
+2023,garbage_time,Kickoff Return (Offense),41,41
+2023,garbage_time,Kickoff Return Touchdown,1,1
+2023,garbage_time,Pass Incompletion,501,2
+2023,garbage_time,Pass Interception Return,9,0
+2023,garbage_time,Pass Reception,684,0
+2023,garbage_time,Passing Touchdown,79,0
+2023,garbage_time,Penalty,195,195
+2023,garbage_time,Punt,180,180
+2023,garbage_time,Rush,1854,3
+2023,garbage_time,Rushing Touchdown,73,0
+2023,garbage_time,Sack,86,0
+2023,garbage_time,Timeout,130,130
+2023,garbage_time,Uncategorized,1,1
+2023,invalid_down,Defensive 2pt Conversion,2,2
+2023,invalid_down,End Period,1492,1492
+2023,invalid_down,End of Game,552,552
+2023,invalid_down,End of Half,707,707
+2023,invalid_down,End of Regulation,47,47
+2023,invalid_down,Field Goal Good,2,2
+2023,invalid_down,Interception,1,1
+2023,invalid_down,Kickoff,3835,3835
+2023,invalid_down,Kickoff Return (Offense),225,225
+2023,invalid_down,Kickoff Return Touchdown,25,25
+2023,invalid_down,Passing Touchdown,2,2
+2023,invalid_down,Penalty,48,48
+2023,invalid_down,Punt,6,6
+2023,invalid_down,Safety,1,1
+2023,invalid_down,Timeout,209,209
+2023,invalid_down,Uncategorized,44,44
+2023,invalid_down,placeholder,1,1
+2023,kneel_or_spike,Pass Reception,1,0
+2023,kneel_or_spike,Penalty,5,5
+2023,kneel_or_spike,Rush,526,0
+2023,kneel_or_spike,Sack,2,0
+2023,kneel_or_spike,Safety,1,0
+2023,kneel_or_spike,Uncategorized,3,3
+2023,no_play,Pass Incompletion,17,0
+2023,no_play,Penalty,3408,3408
+2023,no_play,Punt,3,3
+2023,no_play,Rush,5,0
+2023,no_play,Sack,1,0
+2023,no_play,Safety,1,0
+2023,no_play,Uncategorized,2,2
+2023,non_fbs,Blocked Field Goal,43,43
+2023,non_fbs,Blocked Field Goal Touchdown,6,0
+2023,non_fbs,Blocked Punt,40,40
+2023,non_fbs,Blocked Punt Touchdown,13,0
+2023,non_fbs,Defensive 2pt Conversion,2,2
+2023,non_fbs,End Period,1348,1343
+2023,non_fbs,End of Game,409,409
+2023,non_fbs,End of Half,483,483
+2023,non_fbs,End of Regulation,49,45
+2023,non_fbs,Field Goal Good,1177,1177
+2023,non_fbs,Field Goal Missed,457,457
+2023,non_fbs,Fumble Recovery (Opponent),468,2
+2023,non_fbs,Fumble Recovery (Own),462,11
+2023,non_fbs,Fumble Return Touchdown,38,0
+2023,non_fbs,Interception,906,3
+2023,non_fbs,Interception Return Touchdown,113,0
+2023,non_fbs,Kickoff,5141,5141
+2023,non_fbs,Kickoff Return (Offense),1719,1719
+2023,non_fbs,Kickoff Return Touchdown,18,17
+2023,non_fbs,Missed Field Goal Return,15,15
+2023,non_fbs,Pass,1,0
+2023,non_fbs,Pass Incompletion,14829,40
+2023,non_fbs,Pass Interception Return,90,0
+2023,non_fbs,Pass Reception,21174,50
+2023,non_fbs,Passing Touchdown,2126,6
+2023,non_fbs,Penalty,5269,5269
+2023,non_fbs,Punt,5953,5953
+2023,non_fbs,Punt Return Touchdown,14,0
+2023,non_fbs,Rush,40826,64
+2023,non_fbs,Rushing Touchdown,2076,3
+2023,non_fbs,Sack,2363,1
+2023,non_fbs,Safety,26,1
+2023,non_fbs,Timeout,3226,3226
+2023,non_fbs,Uncategorized,45,45
+2023,non_fbs,placeholder,3,0
+2023,non_regulation,End Period,4,4
+2023,non_regulation,End of Game,23,23
+2023,non_regulation,Field Goal Good,13,13
+2023,non_regulation,Field Goal Missed,2,2
+2023,non_regulation,Fumble Recovery (Own),1,0
+2023,non_regulation,Pass Incompletion,37,2
+2023,non_regulation,Pass Interception Return,2,1
+2023,non_regulation,Pass Reception,29,0
+2023,non_regulation,Passing Touchdown,16,3
+2023,non_regulation,Penalty,12,12
+2023,non_regulation,Rush,58,0
+2023,non_regulation,Rushing Touchdown,23,15
+2023,non_regulation,Sack,2,0
+2023,non_regulation,Timeout,12,12
+2023,non_regulation,Two Point Pass,1,1
+2023,non_regulation,Two Point Rush,1,1
+2023,non_regulation,Uncategorized,2,2
+2023,special_teams_text,Blocked Field Goal,7,7
+2023,special_teams_text,Blocked Field Goal Touchdown,4,0
+2023,special_teams_text,Blocked Punt,41,41
+2023,special_teams_text,Blocked Punt Touchdown,11,0
+2023,special_teams_text,Field Goal Good,165,165
+2023,special_teams_text,Field Goal Missed,27,27
+2023,special_teams_text,Fumble Recovery (Opponent),4,0
+2023,special_teams_text,Kickoff,2515,2515
+2023,special_teams_text,Kickoff Return (Offense),1173,1173
+2023,special_teams_text,Kickoff Return Touchdown,10,9
+2023,special_teams_text,Passing Touchdown,1,0
+2023,special_teams_text,Punt,6334,6334
+2023,special_teams_text,Punt Return Touchdown,16,0
+2023,special_teams_text,Rush,1,0
+2023,special_teams_text,Safety,1,0

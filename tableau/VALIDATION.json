@@ -1,0 +1,7 @@
+{
+  "xml_parse": "passed",
+  "worksheet_count": 3,
+  "local_connections_resolve": true,
+  "native_tableau_open": "passed in Tableau Public 2026.3; see NATIVE_REVIEW.json",
+  "publication": "https://public.tableau.com/app/profile/shawn.lee1439/viz/football-drives/Footballproductionline"
+}

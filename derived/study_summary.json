@@ -1,0 +1,19 @@
+{
+  "case_count": 10,
+  "eligible_cases": 8,
+  "new_alarms": 1,
+  "preexisting_alarms": 1,
+  "insufficient_followup": 2,
+  "baseline_flagged_cases": 0,
+  "eligible_baseline_flagged": 0,
+  "placebo_n": 50,
+  "placebo_alarms": 7,
+  "placebo_rate": 0.14,
+  "placebo_wilson_95": [
+    0.06950745262022862,
+    0.2618645719852809
+  ],
+  "placebo_unique_teams": 48,
+  "cusum_near_change": 0,
+  "seed": 20261022
+}

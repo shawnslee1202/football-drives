@@ -1,0 +1,10 @@
+{
+  "n_team_games": 4294,
+  "n_games": 2166,
+  "tempo_coefficient": -0.03870342436307936,
+  "ci_low": -0.12671065997529596,
+  "ci_high": 0.04930381124913724,
+  "clustered_se": 0.04490247591609155,
+  "r_squared": 0.3785588089393792,
+  "interpretation": "Descriptive association in points per drive (TD=6; FG=3; no conversions) per additional eligible snap per possession minute. Controls: offense, defense, season, field position and home field. Clustered by game. Not a causal tempo effect."
+}

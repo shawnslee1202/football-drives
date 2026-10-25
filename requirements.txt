@@ -1,0 +1,6 @@
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.9
+statsmodels>=0.14
+reportlab>=4
+pypdf>=5

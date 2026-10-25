@@ -1,0 +1,469 @@
+case,relative_game,series,value,path_order
+Nebraska 2022,-2.0,Adjusted PPA (z),-1.5080654993930467,001
+Nebraska 2022,-2.0,Upper limit,3.0,001
+Nebraska 2022,-2.0,Lower limit,-3.0,001
+Nebraska 2022,-2.0,Center,0.0,001
+Nebraska 2022,-1.0,Adjusted PPA (z),0.9166114002130502,002
+Nebraska 2022,-1.0,Upper limit,3.0,002
+Nebraska 2022,-1.0,Lower limit,-3.0,002
+Nebraska 2022,-1.0,Center,0.0,002
+Nebraska 2022,0.0,Adjusted PPA (z),-1.053487317898106,003
+Nebraska 2022,0.0,Upper limit,3.0,003
+Nebraska 2022,0.0,Lower limit,-3.0,003
+Nebraska 2022,0.0,Center,0.0,003
+Nebraska 2022,1.0,Adjusted PPA (z),-1.0434781521871062,004
+Nebraska 2022,1.0,Upper limit,3.0,004
+Nebraska 2022,1.0,Lower limit,-3.0,004
+Nebraska 2022,1.0,Center,0.0,004
+Nebraska 2022,2.0,Adjusted PPA (z),-2.28565776450525,005
+Nebraska 2022,2.0,Upper limit,3.0,005
+Nebraska 2022,2.0,Lower limit,-3.0,005
+Nebraska 2022,2.0,Center,0.0,005
+Nebraska 2022,3.0,Adjusted PPA (z),0.8661231406237004,006
+Nebraska 2022,3.0,Upper limit,3.0,006
+Nebraska 2022,3.0,Lower limit,-3.0,006
+Nebraska 2022,3.0,Center,0.0,006
+Nebraska 2022,4.0,Adjusted PPA (z),-3.7709138257221007,007
+Nebraska 2022,4.0,Upper limit,3.0,007
+Nebraska 2022,4.0,Lower limit,-3.0,007
+Nebraska 2022,4.0,Center,0.0,007
+Nebraska 2022,5.0,Adjusted PPA (z),-1.7270662887540398,008
+Nebraska 2022,5.0,Upper limit,3.0,008
+Nebraska 2022,5.0,Lower limit,-3.0,008
+Nebraska 2022,5.0,Center,0.0,008
+Nebraska 2022,6.0,Adjusted PPA (z),-1.3268988866303328,009
+Nebraska 2022,6.0,Upper limit,3.0,009
+Nebraska 2022,6.0,Lower limit,-3.0,009
+Nebraska 2022,6.0,Center,0.0,009
+Nebraska 2022,7.0,Adjusted PPA (z),0.2991017961654151,010
+Nebraska 2022,7.0,Upper limit,3.0,010
+Nebraska 2022,7.0,Lower limit,-3.0,010
+Nebraska 2022,7.0,Center,0.0,010
+Nebraska 2022,8.0,Adjusted PPA (z),-0.02755214540369232,011
+Nebraska 2022,8.0,Upper limit,3.0,011
+Nebraska 2022,8.0,Lower limit,-3.0,011
+Nebraska 2022,8.0,Center,0.0,011
+Nebraska 2022,-0.5,Coaching change,-4.0,001
+Nebraska 2022,-0.5,Coaching change,4.0,002
+Arizona State 2022,-2.0,Adjusted PPA (z),0.5572174021593169,001
+Arizona State 2022,-2.0,Upper limit,3.0,001
+Arizona State 2022,-2.0,Lower limit,-3.0,001
+Arizona State 2022,-2.0,Center,0.0,001
+Arizona State 2022,-1.0,Adjusted PPA (z),-0.7139991517131122,002
+Arizona State 2022,-1.0,Upper limit,3.0,002
+Arizona State 2022,-1.0,Lower limit,-3.0,002
+Arizona State 2022,-1.0,Center,0.0,002
+Arizona State 2022,0.0,Adjusted PPA (z),-1.7240955044218034,003
+Arizona State 2022,0.0,Upper limit,3.0,003
+Arizona State 2022,0.0,Lower limit,-3.0,003
+Arizona State 2022,0.0,Center,0.0,003
+Arizona State 2022,1.0,Adjusted PPA (z),-0.8928255364483526,004
+Arizona State 2022,1.0,Upper limit,3.0,004
+Arizona State 2022,1.0,Lower limit,-3.0,004
+Arizona State 2022,1.0,Center,0.0,004
+Arizona State 2022,2.0,Adjusted PPA (z),1.295082000187916,005
+Arizona State 2022,2.0,Upper limit,3.0,005
+Arizona State 2022,2.0,Lower limit,-3.0,005
+Arizona State 2022,2.0,Center,0.0,005
+Arizona State 2022,3.0,Adjusted PPA (z),-1.3364879412666684,006
+Arizona State 2022,3.0,Upper limit,3.0,006
+Arizona State 2022,3.0,Lower limit,-3.0,006
+Arizona State 2022,3.0,Center,0.0,006
+Arizona State 2022,4.0,Adjusted PPA (z),0.9409985656567117,007
+Arizona State 2022,4.0,Upper limit,3.0,007
+Arizona State 2022,4.0,Lower limit,-3.0,007
+Arizona State 2022,4.0,Center,0.0,007
+Arizona State 2022,5.0,Adjusted PPA (z),0.04563356286634833,008
+Arizona State 2022,5.0,Upper limit,3.0,008
+Arizona State 2022,5.0,Lower limit,-3.0,008
+Arizona State 2022,5.0,Center,0.0,008
+Arizona State 2022,6.0,Adjusted PPA (z),-0.6222424495924433,009
+Arizona State 2022,6.0,Upper limit,3.0,009
+Arizona State 2022,6.0,Lower limit,-3.0,009
+Arizona State 2022,6.0,Center,0.0,009
+Arizona State 2022,7.0,Adjusted PPA (z),-1.1986329235241728,010
+Arizona State 2022,7.0,Upper limit,3.0,010
+Arizona State 2022,7.0,Lower limit,-3.0,010
+Arizona State 2022,7.0,Center,0.0,010
+Arizona State 2022,8.0,Adjusted PPA (z),-0.2738229275231822,011
+Arizona State 2022,8.0,Upper limit,3.0,011
+Arizona State 2022,8.0,Lower limit,-3.0,011
+Arizona State 2022,8.0,Center,0.0,011
+Arizona State 2022,-0.5,Coaching change,-4.0,001
+Arizona State 2022,-0.5,Coaching change,4.0,002
+Georgia Tech 2022,-3.0,Adjusted PPA (z),0.1368722856579554,001
+Georgia Tech 2022,-3.0,Upper limit,3.0,001
+Georgia Tech 2022,-3.0,Lower limit,-3.0,001
+Georgia Tech 2022,-3.0,Center,0.0,001
+Georgia Tech 2022,-2.0,Adjusted PPA (z),-1.1152806751361828,002
+Georgia Tech 2022,-2.0,Upper limit,3.0,002
+Georgia Tech 2022,-2.0,Lower limit,-3.0,002
+Georgia Tech 2022,-2.0,Center,0.0,002
+Georgia Tech 2022,-1.0,Adjusted PPA (z),0.11774474923169569,003
+Georgia Tech 2022,-1.0,Upper limit,3.0,003
+Georgia Tech 2022,-1.0,Lower limit,-3.0,003
+Georgia Tech 2022,-1.0,Center,0.0,003
+Georgia Tech 2022,0.0,Adjusted PPA (z),0.42121202405871033,004
+Georgia Tech 2022,0.0,Upper limit,3.0,004
+Georgia Tech 2022,0.0,Lower limit,-3.0,004
+Georgia Tech 2022,0.0,Center,0.0,004
+Georgia Tech 2022,1.0,Adjusted PPA (z),-0.6004590228835434,005
+Georgia Tech 2022,1.0,Upper limit,3.0,005
+Georgia Tech 2022,1.0,Lower limit,-3.0,005
+Georgia Tech 2022,1.0,Center,0.0,005
+Georgia Tech 2022,2.0,Adjusted PPA (z),-1.8239670937747865,006
+Georgia Tech 2022,2.0,Upper limit,3.0,006
+Georgia Tech 2022,2.0,Lower limit,-3.0,006
+Georgia Tech 2022,2.0,Center,0.0,006
+Georgia Tech 2022,3.0,Adjusted PPA (z),0.025188402082595422,007
+Georgia Tech 2022,3.0,Upper limit,3.0,007
+Georgia Tech 2022,3.0,Lower limit,-3.0,007
+Georgia Tech 2022,3.0,Center,0.0,007
+Georgia Tech 2022,4.0,Adjusted PPA (z),0.18261455683019745,008
+Georgia Tech 2022,4.0,Upper limit,3.0,008
+Georgia Tech 2022,4.0,Lower limit,-3.0,008
+Georgia Tech 2022,4.0,Center,0.0,008
+Georgia Tech 2022,5.0,Adjusted PPA (z),-1.1025037244715963,009
+Georgia Tech 2022,5.0,Upper limit,3.0,009
+Georgia Tech 2022,5.0,Lower limit,-3.0,009
+Georgia Tech 2022,5.0,Center,0.0,009
+Georgia Tech 2022,6.0,Adjusted PPA (z),0.670040905345076,010
+Georgia Tech 2022,6.0,Upper limit,3.0,010
+Georgia Tech 2022,6.0,Lower limit,-3.0,010
+Georgia Tech 2022,6.0,Center,0.0,010
+Georgia Tech 2022,7.0,Adjusted PPA (z),-0.22940238963019002,011
+Georgia Tech 2022,7.0,Upper limit,3.0,011
+Georgia Tech 2022,7.0,Lower limit,-3.0,011
+Georgia Tech 2022,7.0,Center,0.0,011
+Georgia Tech 2022,-0.5,Coaching change,-4.0,001
+Georgia Tech 2022,-0.5,Coaching change,4.0,002
+Colorado 2022,-5.0,Adjusted PPA (z),-0.8824829142047489,001
+Colorado 2022,-5.0,Upper limit,3.0,001
+Colorado 2022,-5.0,Lower limit,-3.0,001
+Colorado 2022,-5.0,Center,0.0,001
+Colorado 2022,-4.0,Adjusted PPA (z),-0.5518528975204066,002
+Colorado 2022,-4.0,Upper limit,3.0,002
+Colorado 2022,-4.0,Lower limit,-3.0,002
+Colorado 2022,-4.0,Center,0.0,002
+Colorado 2022,-3.0,Adjusted PPA (z),-0.5352496937619805,003
+Colorado 2022,-3.0,Upper limit,3.0,003
+Colorado 2022,-3.0,Lower limit,-3.0,003
+Colorado 2022,-3.0,Center,0.0,003
+Colorado 2022,-2.0,Adjusted PPA (z),-0.7665556497010719,004
+Colorado 2022,-2.0,Upper limit,3.0,004
+Colorado 2022,-2.0,Lower limit,-3.0,004
+Colorado 2022,-2.0,Center,0.0,004
+Colorado 2022,-1.0,Adjusted PPA (z),0.8063663766091242,005
+Colorado 2022,-1.0,Upper limit,3.0,005
+Colorado 2022,-1.0,Lower limit,-3.0,005
+Colorado 2022,-1.0,Center,0.0,005
+Colorado 2022,0.0,Adjusted PPA (z),-0.4202457783759422,006
+Colorado 2022,0.0,Upper limit,3.0,006
+Colorado 2022,0.0,Lower limit,-3.0,006
+Colorado 2022,0.0,Center,0.0,006
+Colorado 2022,1.0,Adjusted PPA (z),-1.7481259062625698,007
+Colorado 2022,1.0,Upper limit,3.0,007
+Colorado 2022,1.0,Lower limit,-3.0,007
+Colorado 2022,1.0,Center,0.0,007
+Colorado 2022,2.0,Adjusted PPA (z),0.7015241933626082,008
+Colorado 2022,2.0,Upper limit,3.0,008
+Colorado 2022,2.0,Lower limit,-3.0,008
+Colorado 2022,2.0,Center,0.0,008
+Colorado 2022,3.0,Adjusted PPA (z),-0.34522439679782185,009
+Colorado 2022,3.0,Upper limit,3.0,009
+Colorado 2022,3.0,Lower limit,-3.0,009
+Colorado 2022,3.0,Center,0.0,009
+Colorado 2022,4.0,Adjusted PPA (z),-0.6081607760342739,010
+Colorado 2022,4.0,Upper limit,3.0,010
+Colorado 2022,4.0,Lower limit,-3.0,010
+Colorado 2022,4.0,Center,0.0,010
+Colorado 2022,5.0,Adjusted PPA (z),-0.4773263917923811,011
+Colorado 2022,5.0,Upper limit,3.0,011
+Colorado 2022,5.0,Lower limit,-3.0,011
+Colorado 2022,5.0,Center,0.0,011
+Colorado 2022,6.0,Adjusted PPA (z),-0.40246354519388094,012
+Colorado 2022,6.0,Upper limit,3.0,012
+Colorado 2022,6.0,Lower limit,-3.0,012
+Colorado 2022,6.0,Center,0.0,012
+Colorado 2022,-0.5,Coaching change,-4.0,001
+Colorado 2022,-0.5,Coaching change,4.0,002
+Wisconsin 2022,-4.0,Adjusted PPA (z),0.20507807932377367,001
+Wisconsin 2022,-4.0,Upper limit,3.0,001
+Wisconsin 2022,-4.0,Lower limit,-3.0,001
+Wisconsin 2022,-4.0,Center,0.0,001
+Wisconsin 2022,-3.0,Adjusted PPA (z),0.7508906416461945,002
+Wisconsin 2022,-3.0,Upper limit,3.0,002
+Wisconsin 2022,-3.0,Lower limit,-3.0,002
+Wisconsin 2022,-3.0,Center,0.0,002
+Wisconsin 2022,-2.0,Adjusted PPA (z),-1.3348455235132917,003
+Wisconsin 2022,-2.0,Upper limit,3.0,003
+Wisconsin 2022,-2.0,Lower limit,-3.0,003
+Wisconsin 2022,-2.0,Center,0.0,003
+Wisconsin 2022,-1.0,Adjusted PPA (z),-1.7737635297270478,004
+Wisconsin 2022,-1.0,Upper limit,3.0,004
+Wisconsin 2022,-1.0,Lower limit,-3.0,004
+Wisconsin 2022,-1.0,Center,0.0,004
+Wisconsin 2022,0.0,Adjusted PPA (z),1.1139357211560694,005
+Wisconsin 2022,0.0,Upper limit,3.0,005
+Wisconsin 2022,0.0,Lower limit,-3.0,005
+Wisconsin 2022,0.0,Center,0.0,005
+Wisconsin 2022,1.0,Adjusted PPA (z),0.28012590498971857,006
+Wisconsin 2022,1.0,Upper limit,3.0,006
+Wisconsin 2022,1.0,Lower limit,-3.0,006
+Wisconsin 2022,1.0,Center,0.0,006
+Wisconsin 2022,2.0,Adjusted PPA (z),1.7795990938107162,007
+Wisconsin 2022,2.0,Upper limit,3.0,007
+Wisconsin 2022,2.0,Lower limit,-3.0,007
+Wisconsin 2022,2.0,Center,0.0,007
+Wisconsin 2022,3.0,Adjusted PPA (z),-0.7009352305023737,008
+Wisconsin 2022,3.0,Upper limit,3.0,008
+Wisconsin 2022,3.0,Lower limit,-3.0,008
+Wisconsin 2022,3.0,Center,0.0,008
+Wisconsin 2022,4.0,Adjusted PPA (z),-0.8537942066810962,009
+Wisconsin 2022,4.0,Upper limit,3.0,009
+Wisconsin 2022,4.0,Lower limit,-3.0,009
+Wisconsin 2022,4.0,Center,0.0,009
+Wisconsin 2022,5.0,Adjusted PPA (z),0.20955529291259156,010
+Wisconsin 2022,5.0,Upper limit,3.0,010
+Wisconsin 2022,5.0,Lower limit,-3.0,010
+Wisconsin 2022,5.0,Center,0.0,010
+Wisconsin 2022,6.0,Adjusted PPA (z),0.09100031046583629,011
+Wisconsin 2022,6.0,Upper limit,3.0,011
+Wisconsin 2022,6.0,Lower limit,-3.0,011
+Wisconsin 2022,6.0,Center,0.0,011
+Wisconsin 2022,-0.5,Coaching change,-4.0,001
+Wisconsin 2022,-0.5,Coaching change,4.0,002
+Charlotte 2022,-7.0,Adjusted PPA (z),-0.8124815557620317,001
+Charlotte 2022,-7.0,Upper limit,3.0,001
+Charlotte 2022,-7.0,Lower limit,-3.0,001
+Charlotte 2022,-7.0,Center,0.0,001
+Charlotte 2022,-6.0,Adjusted PPA (z),-0.4389656835176542,002
+Charlotte 2022,-6.0,Upper limit,3.0,002
+Charlotte 2022,-6.0,Lower limit,-3.0,002
+Charlotte 2022,-6.0,Center,0.0,002
+Charlotte 2022,-5.0,Adjusted PPA (z),0.5616076530150509,003
+Charlotte 2022,-5.0,Upper limit,3.0,003
+Charlotte 2022,-5.0,Lower limit,-3.0,003
+Charlotte 2022,-5.0,Center,0.0,003
+Charlotte 2022,-4.0,Adjusted PPA (z),-0.5272245856990825,004
+Charlotte 2022,-4.0,Upper limit,3.0,004
+Charlotte 2022,-4.0,Lower limit,-3.0,004
+Charlotte 2022,-4.0,Center,0.0,004
+Charlotte 2022,-3.0,Adjusted PPA (z),-0.000905637570914937,005
+Charlotte 2022,-3.0,Upper limit,3.0,005
+Charlotte 2022,-3.0,Lower limit,-3.0,005
+Charlotte 2022,-3.0,Center,0.0,005
+Charlotte 2022,-2.0,Adjusted PPA (z),0.4492568330261526,006
+Charlotte 2022,-2.0,Upper limit,3.0,006
+Charlotte 2022,-2.0,Lower limit,-3.0,006
+Charlotte 2022,-2.0,Center,0.0,006
+Charlotte 2022,-1.0,Adjusted PPA (z),-3.544127613400065,007
+Charlotte 2022,-1.0,Upper limit,3.0,007
+Charlotte 2022,-1.0,Lower limit,-3.0,007
+Charlotte 2022,-1.0,Center,0.0,007
+Charlotte 2022,0.0,Adjusted PPA (z),2.3917601938297195,008
+Charlotte 2022,0.0,Upper limit,3.0,008
+Charlotte 2022,0.0,Lower limit,-3.0,008
+Charlotte 2022,0.0,Center,0.0,008
+Charlotte 2022,1.0,Adjusted PPA (z),-0.6382054153692484,009
+Charlotte 2022,1.0,Upper limit,3.0,009
+Charlotte 2022,1.0,Lower limit,-3.0,009
+Charlotte 2022,1.0,Center,0.0,009
+Charlotte 2022,2.0,Adjusted PPA (z),-0.16796091695535392,010
+Charlotte 2022,2.0,Upper limit,3.0,010
+Charlotte 2022,2.0,Lower limit,-3.0,010
+Charlotte 2022,2.0,Center,0.0,010
+Charlotte 2022,3.0,Adjusted PPA (z),0.8226547028258293,011
+Charlotte 2022,3.0,Upper limit,3.0,011
+Charlotte 2022,3.0,Lower limit,-3.0,011
+Charlotte 2022,3.0,Center,0.0,011
+Charlotte 2022,-0.5,Coaching change,-4.0,001
+Charlotte 2022,-0.5,Coaching change,4.0,002
+Auburn 2022,-7.0,Adjusted PPA (z),-0.052390919150937215,001
+Auburn 2022,-7.0,Upper limit,3.0,001
+Auburn 2022,-7.0,Lower limit,-3.0,001
+Auburn 2022,-7.0,Center,0.0,001
+Auburn 2022,-6.0,Adjusted PPA (z),-0.6808145836480927,002
+Auburn 2022,-6.0,Upper limit,3.0,002
+Auburn 2022,-6.0,Lower limit,-3.0,002
+Auburn 2022,-6.0,Center,0.0,002
+Auburn 2022,-5.0,Adjusted PPA (z),-1.8801672642383949,003
+Auburn 2022,-5.0,Upper limit,3.0,003
+Auburn 2022,-5.0,Lower limit,-3.0,003
+Auburn 2022,-5.0,Center,0.0,003
+Auburn 2022,-4.0,Adjusted PPA (z),-0.60487822213639,004
+Auburn 2022,-4.0,Upper limit,3.0,004
+Auburn 2022,-4.0,Lower limit,-3.0,004
+Auburn 2022,-4.0,Center,0.0,004
+Auburn 2022,-3.0,Adjusted PPA (z),-0.378187565780046,005
+Auburn 2022,-3.0,Upper limit,3.0,005
+Auburn 2022,-3.0,Lower limit,-3.0,005
+Auburn 2022,-3.0,Center,0.0,005
+Auburn 2022,-2.0,Adjusted PPA (z),0.23752599505374372,006
+Auburn 2022,-2.0,Upper limit,3.0,006
+Auburn 2022,-2.0,Lower limit,-3.0,006
+Auburn 2022,-2.0,Center,0.0,006
+Auburn 2022,-1.0,Adjusted PPA (z),0.5713075588243547,007
+Auburn 2022,-1.0,Upper limit,3.0,007
+Auburn 2022,-1.0,Lower limit,-3.0,007
+Auburn 2022,-1.0,Center,0.0,007
+Auburn 2022,0.0,Adjusted PPA (z),-0.7567064774746458,008
+Auburn 2022,0.0,Upper limit,3.0,008
+Auburn 2022,0.0,Lower limit,-3.0,008
+Auburn 2022,0.0,Center,0.0,008
+Auburn 2022,1.0,Adjusted PPA (z),-0.39290588398677806,009
+Auburn 2022,1.0,Upper limit,3.0,009
+Auburn 2022,1.0,Lower limit,-3.0,009
+Auburn 2022,1.0,Center,0.0,009
+Auburn 2022,2.0,Adjusted PPA (z),-0.045056906092988944,010
+Auburn 2022,2.0,Upper limit,3.0,010
+Auburn 2022,2.0,Lower limit,-3.0,010
+Auburn 2022,2.0,Center,0.0,010
+Auburn 2022,3.0,Adjusted PPA (z),0.9298146325161959,011
+Auburn 2022,3.0,Upper limit,3.0,011
+Auburn 2022,3.0,Lower limit,-3.0,011
+Auburn 2022,3.0,Center,0.0,011
+Auburn 2022,-0.5,Coaching change,-4.0,001
+Auburn 2022,-0.5,Coaching change,4.0,002
+Michigan State 2023,-1.0,Adjusted PPA (z),-0.46962057657499706,001
+Michigan State 2023,-1.0,Upper limit,3.0,001
+Michigan State 2023,-1.0,Lower limit,-3.0,001
+Michigan State 2023,-1.0,Center,0.0,001
+Michigan State 2023,0.0,Adjusted PPA (z),-2.1690564862490422,002
+Michigan State 2023,0.0,Upper limit,3.0,002
+Michigan State 2023,0.0,Lower limit,-3.0,002
+Michigan State 2023,0.0,Center,0.0,002
+Michigan State 2023,1.0,Adjusted PPA (z),-0.833345044617609,003
+Michigan State 2023,1.0,Upper limit,3.0,003
+Michigan State 2023,1.0,Lower limit,-3.0,003
+Michigan State 2023,1.0,Center,0.0,003
+Michigan State 2023,2.0,Adjusted PPA (z),-0.3874093639637141,004
+Michigan State 2023,2.0,Upper limit,3.0,004
+Michigan State 2023,2.0,Lower limit,-3.0,004
+Michigan State 2023,2.0,Center,0.0,004
+Michigan State 2023,3.0,Adjusted PPA (z),-0.8910183975540963,005
+Michigan State 2023,3.0,Upper limit,3.0,005
+Michigan State 2023,3.0,Lower limit,-3.0,005
+Michigan State 2023,3.0,Center,0.0,005
+Michigan State 2023,4.0,Adjusted PPA (z),-1.256109412736343,006
+Michigan State 2023,4.0,Upper limit,3.0,006
+Michigan State 2023,4.0,Lower limit,-3.0,006
+Michigan State 2023,4.0,Center,0.0,006
+Michigan State 2023,5.0,Adjusted PPA (z),0.06032906058746521,007
+Michigan State 2023,5.0,Upper limit,3.0,007
+Michigan State 2023,5.0,Lower limit,-3.0,007
+Michigan State 2023,5.0,Center,0.0,007
+Michigan State 2023,6.0,Adjusted PPA (z),-0.43614780769551637,008
+Michigan State 2023,6.0,Upper limit,3.0,008
+Michigan State 2023,6.0,Lower limit,-3.0,008
+Michigan State 2023,6.0,Center,0.0,008
+Michigan State 2023,7.0,Adjusted PPA (z),0.13161365176625842,009
+Michigan State 2023,7.0,Upper limit,3.0,009
+Michigan State 2023,7.0,Lower limit,-3.0,009
+Michigan State 2023,7.0,Center,0.0,009
+Michigan State 2023,8.0,Adjusted PPA (z),0.5002725855884403,010
+Michigan State 2023,8.0,Upper limit,3.0,010
+Michigan State 2023,8.0,Lower limit,-3.0,010
+Michigan State 2023,8.0,Center,0.0,010
+Michigan State 2023,9.0,Adjusted PPA (z),-0.2884625357769764,011
+Michigan State 2023,9.0,Upper limit,3.0,011
+Michigan State 2023,9.0,Lower limit,-3.0,011
+Michigan State 2023,9.0,Center,0.0,011
+Michigan State 2023,-0.5,Coaching change,-4.0,001
+Michigan State 2023,-0.5,Coaching change,4.0,002
+Texas A&M 2023,-10.0,Adjusted PPA (z),2.6454383111130557,001
+Texas A&M 2023,-10.0,Upper limit,3.0,001
+Texas A&M 2023,-10.0,Lower limit,-3.0,001
+Texas A&M 2023,-10.0,Center,0.0,001
+Texas A&M 2023,-9.0,Adjusted PPA (z),-0.07600753275713809,002
+Texas A&M 2023,-9.0,Upper limit,3.0,002
+Texas A&M 2023,-9.0,Lower limit,-3.0,002
+Texas A&M 2023,-9.0,Center,0.0,002
+Texas A&M 2023,-8.0,Adjusted PPA (z),1.7496065709497681,003
+Texas A&M 2023,-8.0,Upper limit,3.0,003
+Texas A&M 2023,-8.0,Lower limit,-3.0,003
+Texas A&M 2023,-8.0,Center,0.0,003
+Texas A&M 2023,-7.0,Adjusted PPA (z),1.0450776367209134,004
+Texas A&M 2023,-7.0,Upper limit,3.0,004
+Texas A&M 2023,-7.0,Lower limit,-3.0,004
+Texas A&M 2023,-7.0,Center,0.0,004
+Texas A&M 2023,-6.0,Adjusted PPA (z),-1.2282109766666327,005
+Texas A&M 2023,-6.0,Upper limit,3.0,005
+Texas A&M 2023,-6.0,Lower limit,-3.0,005
+Texas A&M 2023,-6.0,Center,0.0,005
+Texas A&M 2023,-5.0,Adjusted PPA (z),0.0007569599584050082,006
+Texas A&M 2023,-5.0,Upper limit,3.0,006
+Texas A&M 2023,-5.0,Lower limit,-3.0,006
+Texas A&M 2023,-5.0,Center,0.0,006
+Texas A&M 2023,-4.0,Adjusted PPA (z),-1.2119985519481697,007
+Texas A&M 2023,-4.0,Upper limit,3.0,007
+Texas A&M 2023,-4.0,Lower limit,-3.0,007
+Texas A&M 2023,-4.0,Center,0.0,007
+Texas A&M 2023,-3.0,Adjusted PPA (z),0.2796108935929286,008
+Texas A&M 2023,-3.0,Upper limit,3.0,008
+Texas A&M 2023,-3.0,Lower limit,-3.0,008
+Texas A&M 2023,-3.0,Center,0.0,008
+Texas A&M 2023,-2.0,Adjusted PPA (z),1.2669491935900405,009
+Texas A&M 2023,-2.0,Upper limit,3.0,009
+Texas A&M 2023,-2.0,Lower limit,-3.0,009
+Texas A&M 2023,-2.0,Center,0.0,009
+Texas A&M 2023,-1.0,Adjusted PPA (z),2.7176370917854134,010
+Texas A&M 2023,-1.0,Upper limit,3.0,010
+Texas A&M 2023,-1.0,Lower limit,-3.0,010
+Texas A&M 2023,-1.0,Center,0.0,010
+Texas A&M 2023,0.0,Adjusted PPA (z),1.0517684114034602,011
+Texas A&M 2023,0.0,Upper limit,3.0,011
+Texas A&M 2023,0.0,Lower limit,-3.0,011
+Texas A&M 2023,0.0,Center,0.0,011
+Texas A&M 2023,-0.5,Coaching change,-4.0,001
+Texas A&M 2023,-0.5,Coaching change,4.0,002
+Boise State 2023,-9.0,Adjusted PPA (z),-0.38688955378062184,001
+Boise State 2023,-9.0,Upper limit,3.0,001
+Boise State 2023,-9.0,Lower limit,-3.0,001
+Boise State 2023,-9.0,Center,0.0,001
+Boise State 2023,-8.0,Adjusted PPA (z),-0.4507263249162982,002
+Boise State 2023,-8.0,Upper limit,3.0,002
+Boise State 2023,-8.0,Lower limit,-3.0,002
+Boise State 2023,-8.0,Center,0.0,002
+Boise State 2023,-7.0,Adjusted PPA (z),0.8987577698668778,003
+Boise State 2023,-7.0,Upper limit,3.0,003
+Boise State 2023,-7.0,Lower limit,-3.0,003
+Boise State 2023,-7.0,Center,0.0,003
+Boise State 2023,-6.0,Adjusted PPA (z),0.8830193388028439,004
+Boise State 2023,-6.0,Upper limit,3.0,004
+Boise State 2023,-6.0,Lower limit,-3.0,004
+Boise State 2023,-6.0,Center,0.0,004
+Boise State 2023,-5.0,Adjusted PPA (z),0.09687207371453094,005
+Boise State 2023,-5.0,Upper limit,3.0,005
+Boise State 2023,-5.0,Lower limit,-3.0,005
+Boise State 2023,-5.0,Center,0.0,005
+Boise State 2023,-4.0,Adjusted PPA (z),-0.19561436795383247,006
+Boise State 2023,-4.0,Upper limit,3.0,006
+Boise State 2023,-4.0,Lower limit,-3.0,006
+Boise State 2023,-4.0,Center,0.0,006
+Boise State 2023,-3.0,Adjusted PPA (z),-0.3608365790793099,007
+Boise State 2023,-3.0,Upper limit,3.0,007
+Boise State 2023,-3.0,Lower limit,-3.0,007
+Boise State 2023,-3.0,Center,0.0,007
+Boise State 2023,-2.0,Adjusted PPA (z),0.14094853180831834,008
+Boise State 2023,-2.0,Upper limit,3.0,008
+Boise State 2023,-2.0,Lower limit,-3.0,008
+Boise State 2023,-2.0,Center,0.0,008
+Boise State 2023,-1.0,Adjusted PPA (z),0.9982711307356994,009
+Boise State 2023,-1.0,Upper limit,3.0,009
+Boise State 2023,-1.0,Lower limit,-3.0,009
+Boise State 2023,-1.0,Center,0.0,009
+Boise State 2023,0.0,Adjusted PPA (z),0.2815658942798059,010
+Boise State 2023,0.0,Upper limit,3.0,010
+Boise State 2023,0.0,Lower limit,-3.0,010
+Boise State 2023,0.0,Center,0.0,010
+Boise State 2023,1.0,Adjusted PPA (z),-0.48544378152867873,011
+Boise State 2023,1.0,Upper limit,3.0,011
+Boise State 2023,1.0,Lower limit,-3.0,011
+Boise State 2023,1.0,Center,0.0,011
+Boise State 2023,2.0,Adjusted PPA (z),0.15671864262464055,012
+Boise State 2023,2.0,Upper limit,3.0,012
+Boise State 2023,2.0,Lower limit,-3.0,012
+Boise State 2023,2.0,Center,0.0,012
+Boise State 2023,-0.5,Coaching change,-4.0,001
+Boise State 2023,-0.5,Coaching change,4.0,002

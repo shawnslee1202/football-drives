@@ -1,0 +1,638 @@
+[
+  {
+    "file": "drives_4e6290aaaa3537a7.json",
+    "endpoint": "/drives",
+    "params": {
+      "year": 2023,
+      "seasonType": "regular"
+    },
+    "bytes": 20704399,
+    "sha256": "9374ee2b45d203a5ba439dee77f8fb2e90ca9bc4b0eeaeee33d30b9a7b34317d",
+    "rows": 33948
+  },
+  {
+    "file": "drives_949fc03e9afe3358.json",
+    "endpoint": "/drives",
+    "params": {
+      "year": 2022,
+      "seasonType": "regular"
+    },
+    "bytes": 21024392,
+    "sha256": "a3657b9392db249c16aa26cf2b66b5d2caadf888ada067ccbc305f6d1c683637",
+    "rows": 34485
+  },
+  {
+    "file": "drives_c0f1b3b2ce46eac6.json",
+    "endpoint": "/drives",
+    "params": {
+      "year": 2021,
+      "seasonType": "regular"
+    },
+    "bytes": 12636466,
+    "sha256": "e4da95f2d7646a98c0c96682db197116d197d14c7aa8571ec3318d90e65b5f33",
+    "rows": 20713
+  },
+  {
+    "file": "games_4e6290aaaa3537a7.json",
+    "endpoint": "/games",
+    "params": {
+      "year": 2023,
+      "seasonType": "regular"
+    },
+    "bytes": 3021056,
+    "sha256": "8f3547881fe8862693a900e94a058a95c89eb232daf9268079fb59553179a330",
+    "rows": 3595
+  },
+  {
+    "file": "games_949fc03e9afe3358.json",
+    "endpoint": "/games",
+    "params": {
+      "year": 2022,
+      "seasonType": "regular"
+    },
+    "bytes": 3072499,
+    "sha256": "672de04b749e9a5b930fa3aa96ab908159a1ef15ce5dbb07618d3768b44a5c94",
+    "rows": 3657
+  },
+  {
+    "file": "games_c0f1b3b2ce46eac6.json",
+    "endpoint": "/games",
+    "params": {
+      "year": 2021,
+      "seasonType": "regular"
+    },
+    "bytes": 2018485,
+    "sha256": "b6fd830e6f06fa525e1c3a8af9fb4fb1d99ddcf03d8b90f0f4d1b59ca9d218b6",
+    "rows": 2408
+  },
+  {
+    "file": "plays_0c87c8ddbe18caea.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 1,
+      "seasonType": "regular"
+    },
+    "bytes": 9978392,
+    "sha256": "462d05c7d40e9d95c7d17b10c5a30e3b74620338062ac371e0ddfcbdb890a0c2",
+    "rows": 14944
+  },
+  {
+    "file": "plays_1708ecf70643c3cc.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 9,
+      "seasonType": "regular"
+    },
+    "bytes": 11332215,
+    "sha256": "98cfb3c0500d447dd6e36d22dce5343b38d5942bbd928a68b60122d3a0520420",
+    "rows": 16868
+  },
+  {
+    "file": "plays_1a7253d6ad603824.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 4,
+      "seasonType": "regular"
+    },
+    "bytes": 12549513,
+    "sha256": "3c4bea8e6d1eee5db6fef24fb72a3fe23b4d09b24bf26a87f9781affddc1ad81",
+    "rows": 18712
+  },
+  {
+    "file": "plays_1eec172277f4c3c3.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 4,
+      "seasonType": "regular"
+    },
+    "bytes": 12402923,
+    "sha256": "4442f0c38887c2e6a49f2c8dac405dd9deb551bd60c2bd936ae053f58ef2a114",
+    "rows": 18443
+  },
+  {
+    "file": "plays_298f58dd456648ca.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 12,
+      "seasonType": "regular"
+    },
+    "bytes": 13405162,
+    "sha256": "8aba9cad03844b488633eaa273608e9a1b6728f33cc1ccf0c3b27929bcca1c9d",
+    "rows": 19919
+  },
+  {
+    "file": "plays_2e5c43623492de9a.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 5,
+      "seasonType": "regular"
+    },
+    "bytes": 12117922,
+    "sha256": "56221ef0a5d0994f6fdafe00dcdc330da50c4f0381b8d98e4905d04f4bfa802f",
+    "rows": 18003
+  },
+  {
+    "file": "plays_2ffae90a24e5b240.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 8,
+      "seasonType": "regular"
+    },
+    "bytes": 12363106,
+    "sha256": "156ff7d07dae2b11ae4c6c417333a81147410e45f7fbd190ab9f366eb87bb1ca",
+    "rows": 18387
+  },
+  {
+    "file": "plays_310e0d5fba9bab88.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 9,
+      "seasonType": "regular"
+    },
+    "bytes": 12344099,
+    "sha256": "91d1ebbfc6fabc9927dad697eb002488e9eaaf865213684c3ef4f81c6292e25e",
+    "rows": 18339
+  },
+  {
+    "file": "plays_38d951bdb0c39432.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 12,
+      "seasonType": "regular"
+    },
+    "bytes": 12971395,
+    "sha256": "a168a0c18736dc5b6ab229a974e11e2cbcc3ecfbda238a71869a1edb9935f6cf",
+    "rows": 19306
+  },
+  {
+    "file": "plays_3b5dcc1cdc536919.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 15,
+      "seasonType": "regular"
+    },
+    "bytes": 96081,
+    "sha256": "c386c72421ff9a2bf6298cabb6fde898fa3bcda073ae5341deac3c8804f8b194",
+    "rows": 147
+  },
+  {
+    "file": "plays_3e83fcfe3f57fa23.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 3,
+      "seasonType": "regular"
+    },
+    "bytes": 12214674,
+    "sha256": "5f8b530a3156f3575e21df4e9ff9b4ff98a8cf7521f7cabc42afb99a785c928d",
+    "rows": 18192
+  },
+  {
+    "file": "plays_40425ff6d2d0f521.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 1,
+      "seasonType": "regular"
+    },
+    "bytes": 15836605,
+    "sha256": "05fd5a1969ea7160eea79a434b82f2379a21fc1921efd96048b9da4fce23ea70",
+    "rows": 23504
+  },
+  {
+    "file": "plays_427dfc37ba77b649.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 2,
+      "seasonType": "regular"
+    },
+    "bytes": 12277052,
+    "sha256": "c7ba0c6ed7b0a99d2b99303b5e28338c7bc9af82334ff286672621fbefb88c5d",
+    "rows": 18301
+  },
+  {
+    "file": "plays_4a8bee1e802eb8f3.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 8,
+      "seasonType": "regular"
+    },
+    "bytes": 11257675,
+    "sha256": "743b162d994bf397112f47bdaaf27f1860684ac569afb92d60765741bb4f2c4b",
+    "rows": 16767
+  },
+  {
+    "file": "plays_4ac497abd290c5d2.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 7,
+      "seasonType": "regular"
+    },
+    "bytes": 11411520,
+    "sha256": "bf694aa3cdfa84bf059c5c2dc9b4430d73c33f836f21f360bf4c0b9bbfae7088",
+    "rows": 16942
+  },
+  {
+    "file": "plays_4de6b418cca77ab7.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 14,
+      "seasonType": "regular"
+    },
+    "bytes": 1409582,
+    "sha256": "31135849e08da27273df6ded4507681aae229e21fb982e55fe107971b819655d",
+    "rows": 2103
+  },
+  {
+    "file": "plays_4ed63e88e4a2dbf0.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 4,
+      "seasonType": "regular"
+    },
+    "bytes": 8057872,
+    "sha256": "dc2381d3a9ee610542307f7e0b60c08ddfd51ba8a068da999fd3f5158b5f47c0",
+    "rows": 12017
+  },
+  {
+    "file": "plays_4f43e0dc880d72fd.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 10,
+      "seasonType": "regular"
+    },
+    "bytes": 14039796,
+    "sha256": "91529eafd53ab7b888c616dd2ce681ebc0a5b7a7961fac47a4ca41998a4eb3fb",
+    "rows": 20868
+  },
+  {
+    "file": "plays_5102a8e31fb33927.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 6,
+      "seasonType": "regular"
+    },
+    "bytes": 11602575,
+    "sha256": "176463c66adedab8d66b0bab738e5f34c981cfbefe4fb81db8e76bd255092311",
+    "rows": 17248
+  },
+  {
+    "file": "plays_51592a8e4a282ee3.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 14,
+      "seasonType": "regular"
+    },
+    "bytes": 1176659,
+    "sha256": "032946fe885549b88baf7e5da58f437f322947a858c0c7d0cc23c7b5ad4ffb5e",
+    "rows": 1771
+  },
+  {
+    "file": "plays_54c352dd4aeae75b.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 6,
+      "seasonType": "regular"
+    },
+    "bytes": 11342164,
+    "sha256": "5efaf96ddf35c0154f3ee55dc7990db5b32c75f28b908230e4ad490a7d2c665a",
+    "rows": 16897
+  },
+  {
+    "file": "plays_5874cb1389a6693f.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 13,
+      "seasonType": "regular"
+    },
+    "bytes": 7656480,
+    "sha256": "32ad966d786b3bf9c5f0ad7fd73705bb192e0840e4b177da40099b78d687cc05",
+    "rows": 11424
+  },
+  {
+    "file": "plays_5e8909aaff423a4c.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 13,
+      "seasonType": "regular"
+    },
+    "bytes": 8347302,
+    "sha256": "efc2311edbf07143fc0141a3baeb4490bb931f7b8b85756ba8de7d6284c56634",
+    "rows": 12454
+  },
+  {
+    "file": "plays_5fa75bebd9d3c2c6.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 9,
+      "seasonType": "regular"
+    },
+    "bytes": 6341618,
+    "sha256": "20bc7d9d6cef071f6c3274b68149b3d560cfd7944ef6c62eee3de26d6581dfc9",
+    "rows": 9473
+  },
+  {
+    "file": "plays_6004733d58a70cb3.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 3,
+      "seasonType": "regular"
+    },
+    "bytes": 13013345,
+    "sha256": "91afa29312225f2bdaf4610ae11793248db489c873d9f9f49ad0bab6a6d666d9",
+    "rows": 19387
+  },
+  {
+    "file": "plays_61333bb8f89ee25d.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 15,
+      "seasonType": "regular"
+    },
+    "bytes": 108725,
+    "sha256": "9dd9276645a356be72ceba9adcd8dd5d75b980b9e9fb0dba5c242c5f500b499d",
+    "rows": 166
+  },
+  {
+    "file": "plays_70bd4ee0182efc9a.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 10,
+      "seasonType": "regular"
+    },
+    "bytes": 12407567,
+    "sha256": "a3142a86719bc3f723d60c04000812dc62f3832a4ada2808bc94a83a1423842c",
+    "rows": 18500
+  },
+  {
+    "file": "plays_7e47aff6bbfa01d9.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 12,
+      "seasonType": "regular"
+    },
+    "bytes": 7726744,
+    "sha256": "590e89cfd0989a59053e063097563b82d83cca2be2b25cca2df0702748858013",
+    "rows": 11531
+  },
+  {
+    "file": "plays_800a4556ec8bd758.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 5,
+      "seasonType": "regular"
+    },
+    "bytes": 7325817,
+    "sha256": "7601fd8b9b0f5463304bf9d313363dbfacd9b3eea6e759c28e5d4429a579b5c0",
+    "rows": 10919
+  },
+  {
+    "file": "plays_87d2ff626129babb.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 7,
+      "seasonType": "regular"
+    },
+    "bytes": 6240087,
+    "sha256": "d9055d39a88bde152cdcb3a25e5e644286e03e3caeaaaa9309293630a1b094b4",
+    "rows": 9340
+  },
+  {
+    "file": "plays_8c331c195bc10474.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 13,
+      "seasonType": "regular"
+    },
+    "bytes": 7700542,
+    "sha256": "e5140fe35271fbe4bee8dab55e46960b381bab522f1e5997e44e39496d738902",
+    "rows": 11480
+  },
+  {
+    "file": "plays_be3fdc3094b087d0.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 2,
+      "seasonType": "regular"
+    },
+    "bytes": 14210762,
+    "sha256": "80497d575ead4dbc8052bc52cec10de672adab520b7865958c8d541a2327bc23",
+    "rows": 21097
+  },
+  {
+    "file": "plays_c1639991b9487fb3.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 15,
+      "seasonType": "regular"
+    },
+    "bytes": 560921,
+    "sha256": "551da7082f438a05ae9aad3e0b83874a8a182774abf154be25c058792be75734",
+    "rows": 827
+  },
+  {
+    "file": "plays_c528070cd21dc0cb.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 10,
+      "seasonType": "regular"
+    },
+    "bytes": 7398328,
+    "sha256": "70ba6bc98aeeebeb4e508c9ca72447aa810a711791634b3fd3011a39be60aef2",
+    "rows": 11019
+  },
+  {
+    "file": "plays_c9e5b0d0403023d1.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 5,
+      "seasonType": "regular"
+    },
+    "bytes": 12997428,
+    "sha256": "356c730c249c5f59879e470ee875cf6f1ebfae80e376422cf3f9200e27b139c9",
+    "rows": 19370
+  },
+  {
+    "file": "plays_ce957af09e5795db.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 6,
+      "seasonType": "regular"
+    },
+    "bytes": 6351634,
+    "sha256": "5f77a733c91ac675072d31636b68aea59601509d496b30bf51b26e73cb891782",
+    "rows": 9468
+  },
+  {
+    "file": "plays_cf0f494621cf8b61.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 11,
+      "seasonType": "regular"
+    },
+    "bytes": 13545468,
+    "sha256": "48729cec2dd57ab1264d994275a69c850c5a69479b069a8ab741fa725afd3f1e",
+    "rows": 20143
+  },
+  {
+    "file": "plays_d1e5b560b15e2520.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 3,
+      "seasonType": "regular"
+    },
+    "bytes": 8763770,
+    "sha256": "4fd3d8019a7ebc4c909ccc019d3c7cb9963f65d5e1c5096da353494bcb1ecf83",
+    "rows": 13059
+  },
+  {
+    "file": "plays_d5cc4f383717775e.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 7,
+      "seasonType": "regular"
+    },
+    "bytes": 12154403,
+    "sha256": "dc8604dea68128b6877d9f1a221ee3f5cc57e8bd8787ccc62082f018364d8564",
+    "rows": 18110
+  },
+  {
+    "file": "plays_d9c6211d22b0061e.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2023,
+      "week": 1,
+      "seasonType": "regular"
+    },
+    "bytes": 13868807,
+    "sha256": "a08e14c3e87a2f735616ad4809fcabd2ba179785d5525f4a4a9a74f36233f97e",
+    "rows": 20649
+  },
+  {
+    "file": "plays_dfb9fad20ff017e6.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 8,
+      "seasonType": "regular"
+    },
+    "bytes": 6391029,
+    "sha256": "912276a5f9eeb81caa40b4dfc7302c2960df49d4d71b333bd7dc4774bc882c7b",
+    "rows": 9503
+  },
+  {
+    "file": "plays_e5ed7a748b0ab9b9.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 11,
+      "seasonType": "regular"
+    },
+    "bytes": 7662918,
+    "sha256": "03f7023d10a7be84dc1bccfdc0a672696e87a1c7a7c4065aef023a04b3784953",
+    "rows": 11413
+  },
+  {
+    "file": "plays_e6bcdcbb1667c03a.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 11,
+      "seasonType": "regular"
+    },
+    "bytes": 13355272,
+    "sha256": "61375680175416d74ec950ed2384f03daa09136618905ce79fb060987056c715",
+    "rows": 19891
+  },
+  {
+    "file": "plays_ed7ba1fc714e2c79.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2021,
+      "week": 2,
+      "seasonType": "regular"
+    },
+    "bytes": 9675404,
+    "sha256": "119707efdaad9f242dbc23b6fa00ec9179ae3e40f43dde5460c1a58195ae996b",
+    "rows": 14410
+  },
+  {
+    "file": "plays_fa9f7c934d56a7e0.json",
+    "endpoint": "/plays",
+    "params": {
+      "year": 2022,
+      "week": 14,
+      "seasonType": "regular"
+    },
+    "bytes": 2161375,
+    "sha256": "1b3f8059f8ec8308e74562bd7bbf2b6af4a9aebfc26c217b6fde01ea1ef55a44",
+    "rows": 3235
+  },
+  {
+    "file": "teams_fbs_19ff7a7a70500038.json",
+    "endpoint": "/teams/fbs",
+    "params": {
+      "year": 2021
+    },
+    "bytes": 200539,
+    "sha256": "350616209f9360938ff96c1602432fd465ab0ea6ded1e635e622cdd572f91986",
+    "rows": 130
+  },
+  {
+    "file": "teams_fbs_2224ab1bf31cde50.json",
+    "endpoint": "/teams/fbs",
+    "params": {
+      "year": 2023
+    },
+    "bytes": 204977,
+    "sha256": "b4e5e9713a22a4efafdd4b1a98a1a439c2f2fc793da01d0cbb223a381b8bf4b6",
+    "rows": 133
+  },
+  {
+    "file": "teams_fbs_3375fcec971de535.json",
+    "endpoint": "/teams/fbs",
+    "params": {
+      "year": 2022
+    },
+    "bytes": 202007,
+    "sha256": "efdb1aa08f7d7a69a0ffe4898e476fb5afee01925328538e75898e4fc5ee85e1",
+    "rows": 131
+  }
+]

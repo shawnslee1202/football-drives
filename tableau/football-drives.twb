@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<workbook source-platform="win" version="18.1" source-build="2026.3.0 (20263.26.1015.1742)">
+  <datasources>
+    <datasource caption="tempo" inline="true" name="textscan.tempo" version="18.1">
+      <connection class="federated">
+        <named-connections>
+          <named-connection caption="tempo" name="textscan.source_tempo">
+            <connection class="textscan" directory="Data" filename="tempo.csv" password="" server="" />
+          </named-connection>
+        </named-connections>
+        <relation connection="textscan.source_tempo" name="tempo" table="[tempo#csv]" type="table">
+          <columns character-set="UTF-8" header="yes" locale="en_US" separator=",">
+            <column datatype="string" name="team" ordinal="0" />
+            <column datatype="string" name="season" ordinal="1" />
+            <column datatype="real" name="plays_per_minute" ordinal="2" />
+            <column datatype="real" name="points_per_drive" ordinal="3" />
+            <column datatype="real" name="drives" ordinal="4" />
+            <column datatype="string" name="team_season" ordinal="5" />
+          </columns>
+        </relation>
+      </connection>
+      <column datatype="string" name="[team]" role="dimension" type="nominal" />
+      <column datatype="string" name="[season]" role="dimension" type="nominal" />
+      <column datatype="real" name="[plays_per_minute]" role="measure" type="quantitative" />
+      <column datatype="real" name="[points_per_drive]" role="measure" type="quantitative" />
+      <column datatype="real" name="[drives]" role="measure" type="quantitative" />
+      <column datatype="string" name="[team_season]" role="dimension" type="nominal" />
+      <extract enabled="true" count="-1" units="records">
+        <connection class="hyper" dbname="Data/tempo.hyper" schema="Extract" access-mode="readonly">
+          <relation name="Extract" table="[Extract].[Extract]" type="table" />
+        </connection>
+      </extract>
+    </datasource>
+    <datasource caption="bottleneck" inline="true" name="textscan.bottleneck" version="18.1">
+      <connection class="federated">
+        <named-connections>
+          <named-connection caption="bottleneck" name="textscan.source_bottleneck">
+            <connection class="textscan" directory="Data" filename="bottleneck.csv" password="" server="" />
+          </named-connection>
+        </named-connections>
+        <relation connection="textscan.source_bottleneck" name="bottleneck" table="[bottleneck#csv]" type="table">
+          <columns character-set="UTF-8" header="yes" locale="en_US" separator=",">
+            <column datatype="string" name="case" ordinal="0" />
+            <column datatype="string" name="state" ordinal="1" />
+            <column datatype="string" name="down_label" ordinal="2" />
+            <column datatype="real" name="gap_pp" ordinal="3" />
+            <column datatype="real" name="snaps" ordinal="4" />
+            <column datatype="real" name="conversion_rate" ordinal="5" />
+            <column datatype="real" name="fbs_other_rate" ordinal="6" />
+          </columns>
+        </relation>
+      </connection>
+      <column datatype="string" name="[case]" role="dimension" type="nominal" />
+      <column datatype="string" name="[state]" role="dimension" type="nominal" />
+      <column datatype="string" name="[down_label]" role="dimension" type="nominal" />
+      <column datatype="real" name="[gap_pp]" role="measure" type="quantitative" />
+      <column datatype="real" name="[snaps]" role="measure" type="quantitative" />
+      <column datatype="real" name="[conversion_rate]" role="measure" type="quantitative" />
+      <column datatype="real" name="[fbs_other_rate]" role="measure" type="quantitative" />
+      <extract enabled="true" count="-1" units="records">
+        <connection class="hyper" dbname="Data/bottleneck.hyper" schema="Extract" access-mode="readonly">
+          <relation name="Extract" table="[Extract].[Extract]" type="table" />
+        </connection>
+      </extract>
+    </datasource>
+    <datasource caption="control" inline="true" name="textscan.control" version="18.1">
+      <connection class="federated">
+        <named-connections>
+          <named-connection caption="control" name="textscan.source_control">
+            <connection class="textscan" directory="Data" filename="control.csv" password="" server="" />
+          </named-connection>
+        </named-connections>
+        <relation connection="textscan.source_control" name="control" table="[control#csv]" type="table">
+          <columns character-set="UTF-8" header="yes" locale="en_US" separator=",">
+            <column datatype="string" name="case" ordinal="0" />
+            <column datatype="real" name="relative_game" ordinal="1" />
+            <column datatype="string" name="series" ordinal="2" />
+            <column datatype="real" name="value" ordinal="3" />
+            <column datatype="string" name="path_order" ordinal="4" />
+          </columns>
+        </relation>
+      </connection>
+      <column datatype="string" name="[case]" role="dimension" type="nominal" />
+      <column datatype="real" name="[relative_game]" role="measure" type="quantitative" />
+      <column datatype="string" name="[series]" role="dimension" type="nominal" />
+      <column datatype="real" name="[value]" role="measure" type="quantitative" />
+      <column datatype="string" name="[path_order]" role="dimension" type="nominal" />
+      <extract enabled="true" count="-1" units="records">
+        <connection class="hyper" dbname="Data/control.hyper" schema="Extract" access-mode="readonly">
+          <relation name="Extract" table="[Extract].[Extract]" type="table" />
+        </connection>
+      </extract>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name="Tempo versus points">
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="tempo" name="textscan.tempo" />
+          </datasources>
+          <datasource-dependencies datasource="textscan.tempo">
+            <column datatype="string" name="[team]" role="dimension" type="nominal" />
+            <column-instance column="[team]" derivation="None" name="[none:team:nk]" pivot="key" type="nominal" />
+            <column datatype="string" name="[season]" role="dimension" type="nominal" />
+            <column-instance column="[season]" derivation="None" name="[none:season:nk]" pivot="key" type="nominal" />
+            <column datatype="real" name="[plays_per_minute]" role="measure" type="quantitative" />
+            <column-instance column="[plays_per_minute]" derivation="Avg" name="[avg:plays_per_minute:qk]" pivot="key" type="quantitative" />
+            <column datatype="real" name="[points_per_drive]" role="measure" type="quantitative" />
+            <column-instance column="[points_per_drive]" derivation="Avg" name="[avg:points_per_drive:qk]" pivot="key" type="quantitative" />
+            <column datatype="real" name="[drives]" role="measure" type="quantitative" />
+            <column-instance column="[drives]" derivation="Avg" name="[avg:drives:qk]" pivot="key" type="quantitative" />
+            <column datatype="string" name="[team_season]" role="dimension" type="nominal" />
+            <column-instance column="[team_season]" derivation="None" name="[none:team_season:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Circle" />
+            <encodings>
+              <color column="[textscan.tempo].[none:season:nk]" />
+              <lod column="[textscan.tempo].[none:team_season:nk]" />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[textscan.tempo].[avg:points_per_drive:qk]</rows>
+        <cols>[textscan.tempo].[avg:plays_per_minute:qk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="State bottlenecks">
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="bottleneck" name="textscan.bottleneck" />
+          </datasources>
+          <datasource-dependencies datasource="textscan.bottleneck">
+            <column datatype="string" name="[case]" role="dimension" type="nominal" />
+            <column-instance column="[case]" derivation="None" name="[none:case:nk]" pivot="key" type="nominal" />
+            <column datatype="string" name="[state]" role="dimension" type="nominal" />
+            <column-instance column="[state]" derivation="None" name="[none:state:nk]" pivot="key" type="nominal" />
+            <column datatype="string" name="[down_label]" role="dimension" type="nominal" />
+            <column-instance column="[down_label]" derivation="None" name="[none:down_label:nk]" pivot="key" type="nominal" />
+            <column datatype="real" name="[gap_pp]" role="measure" type="quantitative" />
+            <column-instance column="[gap_pp]" derivation="Avg" name="[avg:gap_pp:qk]" pivot="key" type="quantitative" />
+            <column datatype="real" name="[snaps]" role="measure" type="quantitative" />
+            <column-instance column="[snaps]" derivation="Avg" name="[avg:snaps:qk]" pivot="key" type="quantitative" />
+            <column datatype="real" name="[conversion_rate]" role="measure" type="quantitative" />
+            <column-instance column="[conversion_rate]" derivation="Avg" name="[avg:conversion_rate:qk]" pivot="key" type="quantitative" />
+            <column datatype="real" name="[fbs_other_rate]" role="measure" type="quantitative" />
+            <column-instance column="[fbs_other_rate]" derivation="Avg" name="[avg:fbs_other_rate:qk]" pivot="key" type="quantitative" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[textscan.bottleneck].[none:case:nk]">
+            <groupfilter function="member" level="[none:case:nk]" member="&quot;Nebraska 2022&quot;" />
+          </filter>
+          <slices>
+            <column>[textscan.bottleneck].[none:case:nk]</column>
+          </slices>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Square" />
+            <encodings>
+              <color column="[textscan.bottleneck].[avg:gap_pp:qk]" />
+              <text column="[textscan.bottleneck].[avg:gap_pp:qk]" />
+            </encodings>
+            <style>
+              <style-rule element="mark">
+                <format attr="mark-labels-show" value="true" />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[textscan.bottleneck].[none:down_label:nk]</rows>
+        <cols>[textscan.bottleneck].[none:state:nk]</cols>
+      </table>
+    </worksheet>
+    <worksheet name="Control chart - zero is first affected game">
+      <table>
+        <view>
+          <datasources>
+            <datasource caption="control" name="textscan.control" />
+          </datasources>
+          <datasource-dependencies datasource="textscan.control">
+            <column datatype="string" name="[case]" role="dimension" type="nominal" />
+            <column-instance column="[case]" derivation="None" name="[none:case:nk]" pivot="key" type="nominal" />
+            <column datatype="real" name="[relative_game]" role="measure" type="quantitative" />
+            <column-instance column="[relative_game]" derivation="Avg" name="[avg:relative_game:qk]" pivot="key" type="quantitative" />
+            <column datatype="string" name="[series]" role="dimension" type="nominal" />
+            <column-instance column="[series]" derivation="None" name="[none:series:nk]" pivot="key" type="nominal" />
+            <column datatype="real" name="[value]" role="measure" type="quantitative" />
+            <column-instance column="[value]" derivation="Avg" name="[avg:value:qk]" pivot="key" type="quantitative" />
+            <column datatype="string" name="[path_order]" role="dimension" type="nominal" />
+            <column-instance column="[path_order]" derivation="None" name="[none:path_order:nk]" pivot="key" type="nominal" />
+          </datasource-dependencies>
+          <filter class="categorical" column="[textscan.control].[none:case:nk]">
+            <groupfilter function="member" level="[none:case:nk]" member="&quot;Nebraska 2022&quot;" />
+          </filter>
+          <slices>
+            <column>[textscan.control].[none:case:nk]</column>
+          </slices>
+          <aggregation value="true" />
+        </view>
+        <style />
+        <panes>
+          <pane>
+            <view>
+              <breakdown value="auto" />
+            </view>
+            <mark class="Line" />
+            <encodings>
+              <color column="[textscan.control].[none:series:nk]" />
+              <path column="[textscan.control].[none:path_order:nk]" />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[textscan.control].[avg:value:qk]</rows>
+        <cols>[textscan.control].[avg:relative_game:qk]</cols>
+      </table>
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name="Football production line">
+      <style />
+      <size maxheight="850" maxwidth="1300" minheight="850" minwidth="1300" sizing-mode="fixed" />
+      <zones>
+        <zone h="40000" id="1" name="Tempo versus points" w="48000" x="0" y="12000" />
+        <zone h="40000" id="2" name="State bottlenecks" w="52000" x="48000" y="12000" />
+        <zone h="38000" id="3" name="Control chart - zero is first affected game" w="100000" x="0" y="62000" />
+        <zone type="text" h="10000" id="4" w="100000" x="0" y="0">
+          <formatted-text>
+            <run bold="true" fontsize="16">Football as a production process | 2021–2023
+</run>
+            <run fontsize="10">1 of 8 new coaching-change alarms vs 7 of 50 placebo dates. Retrospective, noncausal. Data: CollegeFootballData.com.</run>
+          </formatted-text>
+        </zone>
+        <zone type="filter" name="State bottlenecks" param="[textscan.bottleneck].[none:case:nk]" mode="dropdown" h="9000" id="5" w="52000" x="48000" y="52000" />
+        <zone type="filter" name="Control chart - zero is first affected game" param="[textscan.control].[none:case:nk]" mode="dropdown" h="9000" id="6" w="48000" x="0" y="52000" />
+      </zones>
+    </dashboard>
+  </dashboards>
+  <windows>
+    <window class="worksheet" name="Tempo versus points">
+      <cards />
+      <viewpoint>
+        <zoom type="entire-view" />
+      </viewpoint>
+    </window>
+    <window class="worksheet" name="State bottlenecks">
+      <cards>
+        <edge name="right">
+          <strip size="180">
+            <card type="filter" mode="dropdown" param="[textscan.bottleneck].[none:case:nk]" />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type="entire-view" />
+      </viewpoint>
+    </window>
+    <window class="worksheet" name="Control chart - zero is first affected game">
+      <cards>
+        <edge name="right">
+          <strip size="180">
+            <card type="filter" mode="dropdown" param="[textscan.control].[none:case:nk]" />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type="entire-view" />
+      </viewpoint>
+    </window>
+    <window class="dashboard" name="Football production line" maximized="true">
+      <viewpoints>
+        <viewpoint name="Tempo versus points">
+          <zoom type="entire-view" />
+        </viewpoint>
+        <viewpoint name="State bottlenecks">
+          <zoom type="entire-view" />
+        </viewpoint>
+        <viewpoint name="Control chart - zero is first affected game">
+          <zoom type="entire-view" />
+        </viewpoint>
+      </viewpoints>
+      <active id="1" />
+    </window>
+  </windows>
+</workbook>

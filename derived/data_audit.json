@@ -1,0 +1,40 @@
+{
+  "raw_plays": 634546,
+  "seasons": [
+    {
+      "season": 2021,
+      "raw_plays": 150770
+    },
+    {
+      "season": 2022,
+      "raw_plays": 241277
+    },
+    {
+      "season": 2023,
+      "raw_plays": 242499
+    }
+  ],
+  "eligible_plays": 285315,
+  "ppa_measured": 284804,
+  "team_games": 4432,
+  "expected_completed_fbs_games": 2216,
+  "observed_fbs_games": 2216,
+  "missing_fbs_games": 0,
+  "unjoined_raw_plays": 0,
+  "drive_audit": {
+    "eligible_snap_drives_after_ambiguity_filter": 51109,
+    "ambiguous_drive_ids_excluded": 78,
+    "offense_mismatch_count": 53,
+    "missing_drive_records": 0,
+    "garbage_drive_count": 323,
+    "unknown_result_counts": {
+      "Uncategorized": 242,
+      "DOWNS TD": 14,
+      "END OF HALF TD": 6,
+      "FG TD": 1,
+      "KICKOFF": 1
+    },
+    "valid_tempo_drives": 48692
+  },
+  "clean_interval_count": 3937
+}
